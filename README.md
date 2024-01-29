@@ -20,9 +20,8 @@ To learn more about ffmpeg is utilized, you can find the [documentation for the 
         <li>Cross-platform support. The main thing is dealing with how to handle finding and running ffmpeg when it isn't in your terminal by default. </li>
         <li>General code cleanup (better checks, separating into multiple modules, etc.)</li>
         <li>Profiles aren't in yet. Not anything to troubleshoot here, I'd just like to get the rest done before I add in bonus features.</li>
-        <li>Not the prettiest since I made it by hand and didn't realize I could just use a wysiwyg editor (oopsie) and doesn't scale... at all. Sorry 4K monitor users</li>
-        <li>A better name and any feature suggestions would be nice</li>
-        <li>Make this manual more appealing with a less text-heavy approach... Cute TV head explaining things more visually and easily? Audio too, for accessibility if nothing else. We need more 90s vibes!!!</li>
+        <li>Not the prettiest since I made it by hand and didn't realize I could just use a wysiwyg editor (oopsie) and doesn't scale... at all. Sorry 4K monitor users.</li>
+        <li>A better name and any feature suggestions would be nice.</li>
     </ul>
 
 ## Final word
