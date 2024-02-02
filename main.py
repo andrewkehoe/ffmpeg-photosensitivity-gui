@@ -1,8 +1,7 @@
 from tkinter import filedialog
 from tkinter import ttk
 import tkinter as tk
-import subprocess, webbrowser
-import os
+import subprocess, webbrowser, os
 
 #window setup
 window = tk.Tk()
