@@ -1,7 +1,7 @@
 # ffmpeg-photosensitivity-gui
 A friendly GUI to use the photosensitivity filter in FFmpeg. Currently only works on Windows.
 
-<img src="screenie.png" alt="screenshot of the ui">
+<img src="screenshot.png" alt="screenshot of the ui">
 
 ## Requirements
 
