@@ -1,0 +1,1 @@
+# ffmpeg-photosensitivity-gui
